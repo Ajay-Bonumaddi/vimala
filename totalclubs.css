@@ -1,0 +1,121 @@
+.whole{
+
+    background-image:url('https://i0.wp.com/kentuckyschooltalk.org/wp-content/uploads/2018/03/3788069391_99bba79caa_z.jpg?fit=640%2C425&ssl=1');
+    width:100vw;
+    height:100vh;
+    background-size: cover;
+
+
+}
+
+.buttons
+{
+    background-color: darkgrey;
+   
+}
+.button2
+{
+    background-color:lightgreen;
+    color:black;
+    margin-right: 500px;
+}
+.button3
+{
+ margin-left:50px ;
+ 
+}
+.button1
+{
+    margin-right:5px;
+}
+.h1
+{
+    font-family:'cursive';
+    text-align: center;
+
+    text-orientation: 'upright';
+    text-decoration: 'double';
+    text-shadow: 0cqmax;
+    font-weight: 900 ;
+    
+    color:black;
+}
+.h5
+{
+    color:whitesmoke;
+    font-weight: 300;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif,cursive;
+
+
+}
+.h3
+{
+    color:antiquewhite;
+    font-style:oblique;
+}
+.logo
+{
+    width:50px;
+    height:50px;
+    margin-left:20px ;
+    margin-top:20px ;
+}
+.fbutton
+{
+    margin-top:300px;
+    background-color: cadetblue;
+}
+
+
+
+
+.whole1
+{
+    background-image:url('https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR46bYZAWSWB7UiXTShFPj1SQ-0lCzkUjAIk68wkIcfSjx6lLLkOw1XVB9tr1CNXWSdCzE&usqp=CAU');
+    width:100vw;
+    height: 320vh;
+    background-size:cover;
+    background-color: black;
+}
+
+.image
+{
+   width:200px;
+   height:200px;
+
+}
+
+.image1
+{
+     background-color:lightpink;
+     border-radius:10px;
+     padding:5px;
+     margin:15px;
+}
+.head
+{
+     text-align:center;
+     color:darkcyan;
+     font-family: fantasy ;
+}
+
+.button2
+{
+    background-color:black;
+    color:white;
+    margin:15px;
+}
+
+.codeimg
+{
+    width:100pvw;
+    height:100vh;
+
+}
+.code
+{
+    background:black;
+    color:white;
+    padding:20px;
+
+}
